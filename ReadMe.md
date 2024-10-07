@@ -1,8 +1,8 @@
-![Fernando Carrillo](https://media.licdn.com/dms/image/v2/D5616AQH88hjAN97G1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675699085551?e=1733961600&v=beta&t=VMamo1RR69Phhn44e69y4ZQbNokmVMYcWl5BEE-FtdE)
+https://media.licdn.com/dms/image/v2/D5616AQH88hjAN97G1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675699085551?e=1733961600&v=beta&t=VMamo1RR69Phhn44e69y4ZQbNokmVMYcWl5BEE-FtdE
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Fernando Carrillo</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+👋 &nbsp;Hey there! I'm Fernando Carrillo
 
 ### 👨🏻‍💻 &nbsp;About Me
 
