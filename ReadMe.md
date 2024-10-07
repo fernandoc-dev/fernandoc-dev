@@ -1,18 +1,18 @@
-![Aditya Vikram Singh Banner](https://media.licdn.com/dms/image/v2/D5616AQH88hjAN97G1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675699085551?e=1733961600&v=beta&t=VMamo1RR69Phhn44e69y4ZQbNokmVMYcWl5BEE-FtdE)
+![Fernando Carrillo](https://media.licdn.com/dms/image/v2/D5616AQH88hjAN97G1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675699085551?e=1733961600&v=beta&t=VMamo1RR69Phhn44e69y4ZQbNokmVMYcWl5BEE-FtdE)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Fernando Carrillo</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+🎓 &nbsp;I'm currently studying DAW at ILERNA institute (Spain).\
+🌱 &nbsp;I'm on track for learning more about Backend development and Cloud Architecture.\
+✍️ &nbsp;In my free time, I like to do outside activities.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at fer@fernandoc.dev! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://fernandoc.dev/backend-developer-fernando-carrillo.pdf)) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
